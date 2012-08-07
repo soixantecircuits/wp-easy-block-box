@@ -1,0 +1,14 @@
+.box {
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  width: 89%;
+  padding: 24px 2.22% 39px;
+  -webkit-box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+  -ms-box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  margin: 0 45px 0 0;
+  color: #736067;
+  line-height: 1.33em;
+}
