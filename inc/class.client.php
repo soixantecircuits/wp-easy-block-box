@@ -10,7 +10,7 @@ class myTinyMceButton_Client {
         );
         wp_enqueue_style( "style_box" );
 
-        add_shortcode( 'mybox', array( &$this, 'box_shortcode' ));
+        add_shortcode( 'easybox', array( &$this, 'box_shortcode' ));
     }
 
     function box_shortcode( $attr, $content = null ) {

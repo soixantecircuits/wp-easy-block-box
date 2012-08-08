@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: L'Oréal custom contour
+Plugin Name: WP-Easy-Block-Box
 Plugin URI: http://soixantecircuits.fr
 Description: Add tinymce button for contour
 Version: 1.0
-Author: Gabriel Delattre
+Author: Soixante Circuits
 Author URI: http://soixantecircuits.fr
 */
 

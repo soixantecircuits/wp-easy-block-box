@@ -1,4 +1,4 @@
-# WP-Multilingual-Slider
+# WP-Easy-Block-Box
 
 ## Description 
 
@@ -10,7 +10,7 @@ None
 
 ## Usage 
 
-Insert a text between `[mybox][/mybox]` shortcode 
+Insert a text between `[easybox][/easybox]` shortcode 
 
 ## Credits
 
